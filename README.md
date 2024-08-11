@@ -28,7 +28,7 @@ This project aims to provide an interactive and accessible way for users to lear
 
 2. Navigate to the project directory:
    ```
-   cd Clean-water-abd-sanitation-chatbot
+   cd Clean-water-sanitation-chatbot
 
    ```
 
